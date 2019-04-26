@@ -1,13 +1,13 @@
 <html>
   <body>
-    <a href="https://youtube.com/PewDioPie">My Website</a>
+    <a href="https://youtube.com/PewDiePie">My Website</a>
   </body>
 </html>
 <DOCTYPE html>
   <html>
     <head>
       <met charset="utf-8">
-      <title>What are sloths?</titel>
+      <title>What are sloths?</title>
       </head>
       <body>
         <h1>What are sloths?</h1>
